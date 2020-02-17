@@ -1,0 +1,32 @@
+h1 {
+    background:black;
+  font-size:50px;
+  color:white;
+padding:30px;
+margin:30px;
+border:3px solid black;
+}
+
+h2 {
+  background:black;
+  font-size:30px;
+  color:white;
+ 
+  padding:;
+  border:;
+  margin:;
+} 
+
+img {
+  height:;
+  width:565;
+  
+  padding:;
+  border:;
+  margin:;
+}
+
+#sidebar {
+  background:green;
+  float:;
+} 
